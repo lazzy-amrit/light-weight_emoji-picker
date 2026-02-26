@@ -48,11 +48,11 @@ It is optimized for:
 Install required package:
 
 ```bash
-sudo apt install xdotool
+ sudo apt install xdotool '''
 
 Python usually comes preinstalled.
 
-How It Works
+ How It Works
 
 The application:
 
@@ -152,3 +152,5 @@ License
 MIT License
 
 Free to use, modify, and distribute.
+
+#You can chnage or add emoji's in it in category section at starting i needed only this so, didn't added 😅

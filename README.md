@@ -48,7 +48,8 @@ It is optimized for:
 Install required package:
 
 ```bash
- sudo apt install xdotool ```
+ sudo apt install xdotool
+```
 
 Python usually comes preinstalled.
 
